@@ -5,7 +5,7 @@ To view Exercise 1, please click [here](https://basementhalfstackdev.github.io/e
 
 To view Exercise 2, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud30/Exercise%202/index.html).
 
-To view Exercise 3, please click [here]([./Exercise%203/index.html](https://basementhalfstackdev.github.io/ejercicios-ud30/Exercise%203/index.html).
+To view Exercise 3, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud30/Exercise%203/index.html).
 
 To view Exercise 4, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud30/Exercise%204/index.html).
 
