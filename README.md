@@ -1,8 +1,6 @@
 # Exercicses Unit 30
 Exercises Unit 30 Hosted in GitHub Pages
 
-To view the pages through Github Pages, go here (https://basementhalfstackdev.github.io/ejercicios-ud30/).
-
 To view Exercise 1, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud30/Exercise%201/index.html).
 
 To view Exercise 2, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud30/Exercise%202/index.html).
